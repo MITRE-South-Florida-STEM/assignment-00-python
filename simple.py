@@ -10,20 +10,27 @@ xxxxxxxx
 
 (hint: use escape sequence)
 '''
-print()
-print()
-print()
-print()
-print()
-print()
+line1=''
+line2=''
+line3=''
+line4=''
+line5=''
+line6=''
+print(line1)
+print(line2)
+print(line3)
+print(line4)
+print(line5)
+print(line6)
 
 '''
 Can you do it with just one print statement?
+(hint: use string concatenation
 '''
 print()
 
 '''
-Choose three values for a, b, and c such that the final print() statement returns True
+Choose three positive values for a, b, and c such that the final print() statement returns True
 '''
 a = 
 b = 
